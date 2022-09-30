@@ -6,7 +6,7 @@
 
 Proposta desenvolvida como segundo projeto do curso Explorer da Rocketseat.
 
-🛠 Tecnologias
+# 🛠 Tecnologias
 - HTML
 - CSS
 - Git e GitHub
