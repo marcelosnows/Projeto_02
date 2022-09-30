@@ -2,7 +2,7 @@
 
 > Trilha Explorer - Projeto 02
 
-![preview](.github/preview.png)
+![preview](./preview/preview.png)
 
 Proposta desenvolvida como segundo projeto do curso Explorer da Rocketseat.
 
