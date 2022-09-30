@@ -17,5 +17,4 @@ Proposta desenvolvida como segundo projeto do curso Explorer da Rocketseat.
 - Acessibilidade;
 - Introdução à novas propriedades. 
 
-✉ Contato:
- marcsneves@hotmail.com
+> ✉ : marcsneves@hotmail.com
