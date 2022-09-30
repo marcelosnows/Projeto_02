@@ -7,9 +7,9 @@
 Proposta desenvolvida como segundo projeto do curso Explorer da Rocketseat.
 
 🛠 Tecnologias
-- HTML
-- CSS
-- Git e GitHub
+> HTML
+> CSS
+> Git e GitHub
 
 🤯 Aprimoramos conhecimentos já aplicados e vimos também:
 
